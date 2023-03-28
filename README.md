@@ -1,2 +1,2 @@
 # aboutme
-My work as a passionate data engineer
+Learning and building projects as a Data Engineer.
