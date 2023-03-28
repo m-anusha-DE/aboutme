@@ -1,2 +1,2 @@
 # aboutme
-Learning and building projects as a Data Engineer.
+Diving into data engineering space one project at a time 
